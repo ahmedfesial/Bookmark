@@ -1,0 +1,67 @@
+
+
+main {
+    height: 200vh;
+    background-color: #f7ecde;
+}
+
+h1 {
+    font-family: "Pacifico", cursive;
+    color: #352E28;
+    font-size: 50px;
+    line-height: 60px;
+    font-weight: 400;
+}
+
+h2 {
+    color: RGB(33, 37, 41);
+    font-size: 25px;
+    line-height: 30px;
+    font-weight: 400;
+    font-family: "Righteous", sans-serif;
+    background-image: linear-gradient(to right, #3ca55c, #b5ac49);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+.button {
+    color: #fff;
+    border-color: #d1512d;
+    background-color: #d1512d;
+}
+
+.button:hover {
+    background-color: #bb4120;
+    color: #fff;
+    border-color: #a03315;
+}
+
+.bookmark {
+    border-width: 2px 0 2px 0;
+    border-style: dotted;
+    border-color: #352e28;
+}
+
+.btn-visit {
+    color: #fff;
+    background-color: #9eb23b;
+    border-color: #9eb23b;
+    border-width: 1px;
+    cursor: pointer;
+    padding: 5px 15px;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: 0.375rem;
+    text-align: center;
+
+}
+
+.btn-visit:hover {
+    color: #fff;
+    background-color: #8a9e23;
+    border-color: #6e8018;
+}
+a{
+    text-decoration: none;
+    
+}
